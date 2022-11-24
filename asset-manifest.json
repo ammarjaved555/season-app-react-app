@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/season-app-react-app/static/css/main.898c9a0b.css",
+    "main.js": "/season-app-react-app/static/js/main.0ce2b32c.js",
+    "index.html": "/season-app-react-app/index.html",
+    "main.898c9a0b.css.map": "/season-app-react-app/static/css/main.898c9a0b.css.map",
+    "main.0ce2b32c.js.map": "/season-app-react-app/static/js/main.0ce2b32c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.898c9a0b.css",
+    "static/js/main.0ce2b32c.js"
+  ]
+}
